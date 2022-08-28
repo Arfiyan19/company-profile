@@ -74,7 +74,7 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
 ## Screenshot Halaman User
 <p align='Left' valign='top'>
     <span>
-        <img src='https://github.com/DanyAdhi/Company-Profile-Laravel/blob/master/ScreenShot/user-home.jpg'  width=400 />
+        <img src='https://github.com/Arfiyan19/company-profile/blob/master/ScreenShot/home-user.png'  width=400 />
      
     </span>
 </p>
